@@ -1,2 +1,2 @@
-Router.cofigurate
-    layoutTemplate: "application"
+Router.configure
+  layoutTemplate: "application"
