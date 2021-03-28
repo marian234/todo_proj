@@ -24,3 +24,5 @@ react-meteor-data       # React higher-order component for reactively tracking M
 less
 coffeescript
 mquandalle:jade
+mizzao:bootstrap-3
+iron:router
